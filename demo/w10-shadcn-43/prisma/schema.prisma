@@ -12,17 +12,50 @@ datasource db {
   provider = "postgresql"
 }
 
-model User {
-  id Int @id @default(autoincrement())
-  email String @unique
-  name String?
-  post Post[]
+model User { 
+  id    Int     @id @default(autoincrement()) 
+  email String  @unique
+  name  String?
+  posts Post[]
+} 
+model Post { 
+  id        Int     @id @default(autoincrement()) 
+  title     String
+  content   String?
+  published Boolean @default(false) 
+  author    User    @relation(fields: [authorId], references: [id]) 
+  authorId  Int
+} 
+
+model Grocery {
+  id    String     @id @default(cuid()) 
+  name  String
+  completed Boolean @default(false)
 }
-model Post {
-  id Int @id @default(autoincrement())
-  title String
-  content String?
-  published Boolean @default(false)
-  author User @relation(fields: [authorId], references: [id])
-  authorId Int
+
+model Blog_43 {
+  id         Int     @id
+  title      String? @db.VarChar(255)
+  descrip    String?
+  category   String? @db.VarChar(255)
+  img        String?
+  remote_img String?
+}
+
+model Category_43 {
+  cid              Int     @id
+  cname            String? @db.VarChar(255)
+  size             String? @db.VarChar(255)
+  image_url        String?
+  remote_image_url String?
+  link_url         String?
+}
+
+model Shop_43 {
+  pid            Int     @id
+  pname          String? @db.VarChar(255)
+  cat_id         Int?
+  price          Float?  @db.Real
+  img_url        String?
+  remote_img_url String?
 }

@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "src/app/grocery_43/_components/Form_43.jsx", "src/app/grocery_43/_components/Items_43.jsx", "src/app/grocery_43/_components/SingleItem_43.jsx", "src/app/grocery_43/page.jsx", "src/app/_assets/wrapper/Blog2_43.jsx", "src/app/_assets/wrapper/Grocery_43.jsx", "src/app/_assets/wrapper/Navbar_43.jsx", "src/app/grocery_db_43/_components/Form_43.jsx", "src/app/grocery_db_43/_components/Items_43.jsx", "src/app/grocery_db_43/_components/SingleItem_43.jsx", "src/app/grocery_db_43/page.jsx"  ],
   "exclude": ["node_modules"]
 }

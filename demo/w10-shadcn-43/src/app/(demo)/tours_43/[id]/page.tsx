@@ -1,4 +1,4 @@
-const TourDetailPage_00 = ({params}:{params: {id: string}}) => {
+const TourDetailPage_43 = ({params}:{params: {id: string}}) => {
     console.log('params', params);
   return (
     <div>
@@ -7,4 +7,4 @@ const TourDetailPage_00 = ({params}:{params: {id: string}}) => {
   )
 }
 
-export default TourDetailPage_00;
+export default TourDetailPage_43;

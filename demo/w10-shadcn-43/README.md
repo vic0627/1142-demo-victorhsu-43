@@ -1,3 +1,10 @@
+```
+npx shadcn@latest init
+npx shadcn@latest add menubar
+npm install next-themes
+npx shadcn@latest add button dropdown-menu
+```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +41,57 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+```
+npm install typescript tsx @types/node --save-dev
+npm install prisma @types/pg --save-dev
+npm install @prisma/client @prisma/adapter-pg pg dotenv
+
+npx prisma
+npx prisma init
+```
+
+```
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+```
+```
+npx prisma generate
+npx prisma db push
+```
+
+```
+#### => lib/prisma.ts
+
+```
+import { PrismaClient } from '@/generated/prisma/client';
+import { PrismaPg } from '@prisma/adapter-pg';
+
+const adapter = new PrismaPg({
+  connectionString: process.env.DATABASE_URL,
+});
+
+const prismaClientSingleton = () => {
+  return new PrismaClient({ adapter });
+};
+declare const globalThis: {
+  prismaGlobal: ReturnType<typeof prismaClientSingleton>;
+} & typeof global;
+const prisma = globalThis.prismaGlobal ?? prismaClientSingleton();
+
+export { prisma };
+if (process.env.NODE_ENV !== 'production') globalThis.prismaGlobal = prisma;
+
+```
+```
+Database password
+2G7Cs4D5tnSf76KE
+```
+
+```
+npx tsx --env-file=.env test.ts
+```
