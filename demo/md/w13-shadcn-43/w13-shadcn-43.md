@@ -9,7 +9,7 @@ W13-P1: Show NavSearch_43 and CartButton_43
 ![](w13-p1-1.png)
  
 ```
-39729a1 victor hsu Wed May 20 18:50:59 2026 +0800  W13-P1: Show NavSearch_43 and CartButton_43
+4934d56	victor hsu	Thu May 21 08:43:44 2026 +0800	W13-P1: Show NavSearch_43 and CartButton_43
 ```
 W13-P2: Suspense and fetch featured products
  
@@ -22,7 +22,7 @@ W13-P2: Suspense and fetch featured products
 ![](w13-p2-2.png)
  
 ```
-bc63158 victor hsu Wed May 20 19:51:45 2026 +0800  W13-P2: Suspense and fetch featured products
+7cf151e	victor hsu	Thu May 21 10:02:39 2026 +0800	W13-P2: Suspense and fetch featured products
 ```
 
 W13-P3: Implement Hero Carousel
@@ -36,7 +36,7 @@ W13-P3: Implement Hero Carousel
 ![](w13-p3-2.png)
  
 ```
-99c873b victor hsu Wed May 20 20:21:01 2026 +0800  W13-P3: Implement Hero Carousel
+eae62fd	victor hsu	Thu May 21 10:56:11 2026 +0800	W13-P3: Implement Hero Carousel
 ```
 W13-P4: Display featured products
  
@@ -45,7 +45,7 @@ W13-P4: Display featured products
 ![](w13-p4-1.png)
  
 ```
-99c873b victor hsu Wed May 20 20:21:01 2026 +0800  W13-P3: Implement Hero Carousel
+1997434	victor hsu	Thu May 21 11:38:12 2026 +0800	W13-P4: Display featured products
 ```
 
 ![](w13-logs.png)

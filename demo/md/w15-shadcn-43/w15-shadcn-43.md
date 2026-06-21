@@ -19,7 +19,7 @@ W15-P1: Shown in Vercel
 ![](w15-p1-3.png)
  
 ```
-7b663ff victor hsu Wed Jun 3 19:08:40 2026 +0800   W15-P1: Shown in Vercel
+9a1b9a0	victor hsu	Sat Jun 6 23:38:03 2026 +0800	W15-P1: Shown in Vercel
 ```
 
 W15-P2: Show AdminProducts table for CRUD
@@ -37,7 +37,7 @@ W15-P2: Show AdminProducts table for CRUD
 ![](w15-p2-3.png)
  
 ```
-b8aae63 victor hsu Wed Jun 3 20:02:00 2026 +0800   W15-P2: Show AdminProducts table for CRUD
+dacae0a	victor hsu	Sun Jun 7 00:24:30 2026 +0800	W15-P2: Show AdminProducts table for CRUD
 ```
 
 W15-P3: Create Product and Update Product
@@ -63,7 +63,7 @@ W15-P3: Create Product and Update Product
 ![](w15-p3-5.png)
  
 ```
-afe281a victor hsu Wed Jun 3 20:54:12 2026 +0800   W15-P3: Create Product and Update Product
+e436f5a	victor hsu	Sun Jun 7 01:19:31 2026 +0800	W15-P3: Create Product and Update Product
 ```
 
 ![](w15-logs.png)

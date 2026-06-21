@@ -11,7 +11,7 @@ W14-P1: update 6 models used in store project into Supabase
 ![](w14-p1-1.png)
  
 ```
-a814bb6 victor hsu Wed May 27 18:36:52 2026 +0800  W14-P1: update 6 models used in store project into Supabase
+3bbb6ed	victor hsu	Sun May 31 13:53:04 2026 +0800	W14-P1: update 6 models used in store project into Supabase
 ```
 
 W14-P2: Implement search
@@ -29,7 +29,7 @@ W14-P2: Implement search
 ![](w14-p2-3.png)
  
 ```
-5af85c9 victor hsu Wed May 27 19:39:29 2026 +0800  W14-P2: Implement search
+a1c1fdb	victor hsu	Sun May 31 16:40:38 2026 +0800	W14-P2: Implement search
 ```
 
 W14-P3: Show product details
@@ -43,7 +43,7 @@ W14-P3: Show product details
 ![](w14-p3-2.png)
  
 ```
-d424819 victor hsu Wed May 27 20:05:11 2026 +0800  W14-P3: Show product details
+d49fa68	victor hsu	Sun May 31 16:52:14 2026 +0800	W14-P3: Show product details
 ```
 
 W14-P4: for admin user to show the sales table for the route /store_43/admin_43/sales_43
@@ -61,7 +61,7 @@ W14-P4: for admin user to show the sales table for the route /store_43/admin_43/
 ![](w14-p4-3.png)
  
 ```
-9200a9c victor hsu Wed May 27 20:58:31 2026 +0800  W14-P4: for admin user to show the sales table for the route /store_43/admin_43/sales_43
+a50ba03	victor hsu	Sun May 31 17:46:19 2026 +0800	W14-P4: for admin user to show the sales table for the route /store_43/admin_43/sales_43
 ```
 
 ![](w14-logs.png)

@@ -11,7 +11,7 @@ W12-P1: Add 4 initial product data to Supabase
 ![](w12-p1-1.png)
  
 ```
-3c35036 victor hsu Wed May 13 19:00:32 2026 +0800  W12-P1: Add 4 initial product data to Supabase
+d700cf1	victor hsu	Thu May 14 15:26:10 2026 +0800	W12-P1: Add 4 initial product data to Supabase
 ```
 
 W12-P2: Sign In and Sign Out with links
@@ -25,7 +25,7 @@ W12-P2: Sign In and Sign Out with links
 ![](w12-p2-2.png)
  
 ```
-0d9c014 victor hsu Wed May 13 20:34:10 2026 +0800  W12-P2: Sign In and Sign Out with links
+b53d33d	victor hsu	Thu May 14 17:01:12 2026 +0800	W12-P2: Sign In and Sign Out with links
 ```
 
 W12-P3: Check isAdminUser
@@ -43,7 +43,7 @@ W12-P3: Check isAdminUser
 ![](w12-p3-3.png)
  
 ```
-68b93c6 victor hsu Wed May 13 21:04:38 2026 +0800  W12-P3: Check isAdminUser
+c0c447f	victor hsu	Sun May 17 13:09:16 2026 +0800	W12-P3: Check isAdminUser
 ```
 
 ![](w12-logs.png)

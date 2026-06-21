@@ -27,7 +27,7 @@
 ![](w11-p1-5.png)
  
 ```
-4654ca2 victor hsu Wed May 6 20:57:08 2026 +0800   W11-P1: Clerk Setup and test
+f5ea44e	victor hsu	Thu May 7 16:19:05 2026 +0800	W11-P1: Clerk Setup and test
 ```
 
 W11-P2: Make code work in Vercel
@@ -49,7 +49,7 @@ W11-P2: Make code work in Vercel
 ![](w11-p2-4.png)
  
 ```
-8b45686 victor hsu Wed May 6 20:58:31 2026 +0800   W11-P2: Make code work in Vercel
+5366032	victor hsu	Thu May 7 16:44:26 2026 +0800	W11-P2: Make code work in Vercel
 ```
 W11-P3: Make /mid_43 to work in Vercel
  
@@ -58,7 +58,7 @@ W11-P3: Make /mid_43 to work in Vercel
 ![](w11-p3.png)
  
 ```
-7433996 victor hsu Wed May 6 21:01:19 2026 +0800   W11-P3: Make /mid_43 to work in Vercel
+56b775e	victor hsu	Sun May 10 18:41:28 2026 +0800	W11-P3: Make /mid_43 to work in Vercel
 ```
 
 ![](w11-logs.png)

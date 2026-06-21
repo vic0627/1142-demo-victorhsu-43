@@ -11,7 +11,7 @@ W10-P1: Move all routes under app into (demo) folder, and run Tour successfully
 ![](w10-p1.png)
  
 ```
-e6721c7 victor hsu Wed Apr 29 18:52:26 2026 +0800  W10-P1: Move all routes under app into (demo) folder, and run Tour successfully
+1f8d271	victor hsu	Thu Apr 30 16:43:19 2026 +0800	W10-P1: Move all routes under app into (demo) folder, and run Tour successfully
 ```
 
 W10-P2: Create NavbarMain_43 with 5 menubar and a ModeToggle that can change theme
@@ -25,7 +25,7 @@ W10-P2: Create NavbarMain_43 with 5 menubar and a ModeToggle that can change the
 ![](w10-p2-2.png)
  
 ```
-e144b0c victor hsu Wed Apr 29 19:47:19 2026 +0800  W10-P2: Create NavbarMain_43 with 5 menubar and a ModeToggle that can change theme
+cb4c198	victor hsu	Thu Apr 30 16:44:05 2026 +0800	W10-P2: Create NavbarMain_43 with 5 menubar and a ModeToggle that can change theme
 ```
 W10-P3: Implement Demo menubar with 5 items
  
@@ -46,7 +46,7 @@ W10-P3: Implement Demo menubar with 5 items
 ![](w10-p3-4.png)
  
 ```
-a75e3bd victor hsu Wed Apr 29 20:37:38 2026 +0800  W10-P3: Implement Demo menubar with 5 items
+1957461	victor hsu	Sat May 2 23:19:40 2026 +0800	W10-P3: Implement Demo menubar with 5 items
 ```
 
 W10-P4: Implement Quiz1 menubar with 2 items
@@ -64,7 +64,7 @@ W10-P4: Implement Quiz1 menubar with 2 items
 ![](w10-p4-3.png)
  
 ```
-41ec442 victor hsu Wed Apr 29 20:47:30 2026 +0800  W10-P4: Implement Quiz1 menubar with 2 items
+4512726	victor hsu	Sat May 2 23:38:06 2026 +0800	W10-P4: Implement Quiz1 menubar with 2 items
 ```
 
 ![](w10-logs.png)
